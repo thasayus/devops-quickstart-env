@@ -7,7 +7,7 @@ terraform {
   }
 
   cloud {
-    organization = "devops-quickstart"
+    organization = "devops-quickstarts"
 
     workspaces {
       name = "github-actions"
